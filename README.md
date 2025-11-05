@@ -1,5 +1,5 @@
-## Olá! eu sou a Maria Clara
- Data Analyst | Power BI | SQL | Python | Transformando dados em decisões.!
+## Olá! eu sou a Maria Clara 😊!
+ Data Analyst | Power BI | SQL | Python | Transformando dados em decisões.
 <div align="center">
   <a href="https://github.com/mariaclaramariano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaclaramariano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -13,6 +13,7 @@
   ![Snake animation](https://github.com/mariaclaramariano/mariaclaramariano/blob/output/github-contribution-grid-snake.svg)
   
   ##
+
 
 
 
