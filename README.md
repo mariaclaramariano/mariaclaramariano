@@ -4,6 +4,7 @@ Sou Analista de Dados com mais de 1 ano e meio de experiência em transformar da
 Com forte capacidade analítica e atenção aos detalhes, desenvolvi soluções que geraram impacto direto em processos públicos de saúde, reduzindo significativamente o tempo de espera de pacientes e otimizando fluxos operacionais. Busco constantemente aplicar boas práticas de engenharia e visualização de dados para maximizar o valor das informações.
 
 Data Analyst | Power BI | SQL | Python | Transformando dados em decisões.
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 <div align="center">
   <a href="https://github.com/mariaclaramariano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaclaramariano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -17,6 +18,7 @@ Data Analyst | Power BI | SQL | Python | Transformando dados em decisões.
   ![Snake animation](https://github.com/mariaclaramariano/mariaclaramariano/blob/output/github-contribution-grid-snake.svg)
   
   ##
+
 
 
 
